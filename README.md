@@ -1,6 +1,4 @@
 
-<img src="imgs/logo.png" height="150px" align="right">
-
 # CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation
 
 [Xinying Guo](https://gxyes.github.io/), [Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Haozhe Xie](https://www.infinitescript.com/), [Chenyang Gu](https://www.linkedin.com/in/rheallyc/), [Ziwei Liu](https://liuziwei7.github.io/)
