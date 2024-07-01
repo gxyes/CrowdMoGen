@@ -11,7 +11,7 @@ S-Lab, Nanyang Technological University
 
 ---
 
-<img src="imgs/teaser.png" width="90%"/>
+<div align="center"><img src="imgs/teaser.png" width="60%"/></div>
 
 > **Abstract:** <i>Collective Motion Generation</i> is essential in entertainment industries such as animation and games as well as in strategic fields like urban simulation and planning.
 > This new task requires an intricate integration of control and generation to realistically synthesize crowd dynamics under specific spatial and semantic constraints, whose challenges are yet to be fully explored.
@@ -19,7 +19,7 @@ S-Lab, Nanyang Technological University
 > On the other hand, recent methods for multi-person motion generation depend heavily on pre-defined scenarios and are limited to a fixed, small number of inter-person interactions, thus hampering their practicality.
 > To overcome these challenges, we introduce <strong>CrowdMoGen</strong>, a zero-shot text-driven framework that harnesses the power of Large Language Model (LLM) to incorporate the collective intelligence into the motion generation framework as guidance, thereby enabling generalizable planning and generation of crowd motions without paired training data.
 
-<img src="imgs/method" width="90%"/>
+<div align="center"><img src="imgs/method.png" width="80%"/></div>
 
 > **Pipeline Overview:**
 > <strong>CrowdMoGen</strong> is a novel two-stage, zero-shot framework for <i>Crowd Motion Generation</i>, which separates motion decision-making from motion generation into two distinct tasks:
