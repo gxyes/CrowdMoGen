@@ -5,9 +5,10 @@
 
 S-Lab, Nanyang Technological University
 
-[![arXiv](https://img.shields.io/badge/arXiv-XX-B22222.svg)](https://arxiv.org/abs/2309.00610)
+[![arXiv](https://img.shields.io/badge/arXiv-XX-D8383A.svg)](https://arxiv.org/abs/2309.00610)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gxyes.CrowdMoGen)
-[![YouTube](https://img.shields.io/badge/demo-B22222.svg?logo=YouTube&logoColor=white)](https://youtu.be/te4zinLTYz0)
+[![page](https://img.shields.io/badge/homepage-A1A9D0.svg?logo=Google%20Home&logoColor=white&)](https://gxyes.github.io/projects/CrowdMoGen.html)
+[![demo](https://img.shields.io/badge/demo-C497B2.svg?logo=YouTube&logoColor=white)](https://youtu.be/R7Q2Qw5eDVQ)
 
 ---
 
